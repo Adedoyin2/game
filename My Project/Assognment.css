@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(27, 26, 26);
+}
+
+.form
+{
+    margin-top: 100px;
+    margin-left: 550px;
+}
+.spa
+{
+    word-spacing: 200px;
+}
+.car
+{
+    background-color:white;
+    color: black;
+    width: 200px;
+    margin-left: 130px;
+}
+.carr
+{
+    background-color: white;
+    color: black;
+    width: 80px;
+    margin-left: 338px;
+    margin-top: -18px;
+}
+.ca
+{
+height: 30px;
+margin-left: 60px;
+border-radius: 4px;
+background-color: rgb(223, 217, 217);
+}
+.carrr
+{
+     
+    margin-left: 43px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgb(223, 217, 217);
+}
+.c
+{
+    margin-left: 40px;
+width: 380px;
+height: 30px;
+border-radius: 4px;
+background-color: rgb(223, 217, 217);
+}
+.cm
+{
+    background-color: rgb(223, 217, 217);
+    margin-left: 60px;
+width: 385px;
+height: 30px;
+border-radius: 4px;
+}
+.cmm
+{
+width: 50px;
+height: 30px;
+border-radius: 4px;
+background-color: rgb(223, 217, 217);
+}
+.cmmm
+{
+width: 70px;
+height: 36px;
+margin-left: 60px;
+border-radius: 4px;
+background-color: rgb(223, 217, 217);
+}
+.mc
+{
+margin-left: 40px;
+border-radius: 4px;
+background-color: rgb(223, 217, 217);
+
+}
+.cr
+{
+margin-left: 125px;
+
+}
+.carm
+{
+    margin-left: 243px;
+    margin-top: -17px;
+}
+.ch
+{margin-top: 10px;
+    margin-left: 15px;
+}
+.are
+{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.bbb
+{
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(224, 56, 56);
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+   color: white;
+}
+.di
+{
+    background-color:white;
+    width: 550px;
+    
+    
+}
+.dii
+{
+    margin: 20px;
+}

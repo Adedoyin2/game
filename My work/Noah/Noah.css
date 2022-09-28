@@ -1,0 +1,17 @@
+body {
+  background-image: url('ttty.jpg');
+  background-size: cover;
+  background-attachment:fixed;
+}    
+.go{
+ color: rgb(79, 79, 172)
+ 
+} 
+#ggo{
+ color: rgb(107, 107, 184);
+}
+a:hover {
+ color: purple;
+ background-color: transparent;
+ text-decoration: underline;
+}

@@ -1,0 +1,43 @@
+body{
+    background-image: url(mult.webp);
+    background-size: cover;
+}
+input[type="button"]{
+    background-color: #49c1a2;
+}
+.login-box{
+    width: 260px;
+    height: 350px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    padding: 15px;
+
+}
+.d{
+    text-align: center;
+}
+.s{
+    width: 20%;
+    margin-top: 20px;
+    border: none;
+    background-image: url(mult.webp);
+    text-align: center;
+    
+}
+.email{
+    width: 360px;
+    height: 50px;
+    margin: auto;
+    border-radius: 3px;
+    padding-top: 15px;
+
+}
+.foem{
+    width: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
+.di{
+    background-color: white;
+}
