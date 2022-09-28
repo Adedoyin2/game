@@ -1,0 +1,722 @@
+body
+{
+    background-color: rgb(28, 28, 78);
+    background-size: cover;
+   
+    
+    font-family: Arial, Helvetica, sans-serif, sans-serifni;
+}
+
+.Dyoung
+{
+    width: 20px;
+    height: 40px;
+}
+.bu
+{
+ border-radius: 20px;
+ width: 120px;
+ height: 40px;  
+ background: transparent;
+ border: 4px solid white;
+ 
+}
+.h
+{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.bu:hover
+{
+    background: rgb(188, 181, 226);
+    border-radius: 325px;
+    color: black;
+    box-shadow: 30px;
+    box-shadow: 0 0 10px white;
+
+}
+.but:hover
+{
+    background: rgb(188, 181, 226);
+    border-radius: 325px;
+    color: blue;
+    box-shadow: 30px;
+    box-shadow: 0 0 10px white;
+
+}
+.butt:hover
+{
+    background:rgb(188, 181, 226);
+    border-radius: 325px;
+    color: rgb(77, 74, 61);
+    box-shadow: 30px;
+    box-shadow: 0 0 10px white;
+}
+.butto:hover
+{
+    background:rgb(120, 109, 182);
+    border-radius: 325px;
+    box-shadow: 0 0 10px white;
+}
+.but
+{
+ border-radius: 20px;
+ width: 120px;
+ height: 40px;  
+ background: transparent;
+ border: 4px solid white;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.butt
+{
+ border-radius: 20px;
+ width: 150px;
+ height: 40px;  
+ background: transparent;
+ border: 4px solid white;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.butto
+{
+ border-radius: 20px;
+ width: 200px;
+ height: 40px;  
+ background-color:rgb(188, 181, 226);
+ border: 4px solid white;
+}
+.play
+{
+    width: 120px;
+    margin-top: 100px;
+    margin-left: 50px;
+ border-radius: 30px;
+    height: 40px;
+    background: white;
+    border: 4px solid white;
+}
+.play:hover
+{
+    background: rgb(188, 181, 226);
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 0 0 10px #1aeeef;
+}
+.WatchGameplay
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 270px;
+    margin-top: 50px;
+    margin-left: 50px;
+ border-radius: 30px;
+    height: 50px;
+    background: transparent;
+    border: 4px solid white;
+    
+}
+.Your
+{
+    color: white;
+    text-align: left;
+    font-size: 70px;
+    margin-top: 220px;
+    margin-left: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.You
+{
+    color: #fff;
+    text-align: left;
+    font-size: 27px;
+    margin-top: -30px;
+    margin-left: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pllay
+{
+    width: 120px;
+    margin-top: 150px;
+    margin-left: 850px;
+ border-radius: 30px;
+    height: 40px;
+    background: white;
+    border: 4px solid white;
+    
+}
+.pllay:hover
+{
+    background: rgb(188, 181, 226);
+    color:white;
+    box-shadow: 0 0 10px #1aeeef;
+    
+}
+.WatchGameplay:hover
+{ 
+    background-color:rgb(188, 181, 226);
+    box-shadow: 0 0 10px #1aeeef;
+}
+.about
+{
+    position: relative;
+    width: 70%;
+    margin-left: -290px;
+    max-height: 175vh;
+    padding-top:200px ;
+   justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.about
+{
+    font-size: 30px;
+    
+}
+.ab
+{
+    color: white;
+    font-size: 30px;
+    padding-left: 95px;
+    text-align: justify;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
+.asa
+{
+    margin-top: 80px;
+    width: 300px;
+    margin-left: 100px;
+}
+.asa:hover
+{
+    background-color:rgb(188, 181, 226);
+    border-radius: 200px;
+    box-shadow: 0 0 10px white;
+}
+.readmore
+{
+    width: 200px;
+    border-radius: 30px; 
+    color:white;
+     width: 150px; 
+     height: 50px;
+      background: transparent;
+       border: 4px solid white;
+        font-size: 20px;
+    margin-top: -70px; 
+    margin-left: 175px;
+}
+.readmore:hover
+{
+    box-shadow: 0 0 10px white;
+    background-color:rgb(188, 181, 226) ;
+}
+::-webkit-scrollbar
+{
+    width: 10px;
+}::-webkit-scrollbar-thumb
+{
+    background-color:rgb(188, 181, 226);
+    border-radius: 30px;
+}
+/*Games*/
+.games
+{
+    padding: 0px 100px;
+    
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px auto;
+}
+.games h1{
+    color: white;
+    margin: 10px 0;
+}
+.games ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.games ul li
+{
+    list-style: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    letter-spacing: 1px;
+    cursor:pointer ;
+    color: white;
+}
+.games ul li.active
+{
+    background: #1aeeef;
+    color:#050e2d;
+    box-shadow: 0 0 10px #1aeeef;
+}
+.games .cardBx
+{
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    /*break*/
+    justify-content: center;
+    align-items: center;
+    
+   }
+   .games .cardBx .card
+   {
+    width: 280px;
+    border-radius: 10px;
+    margin: 20px 40px;
+    background: #1b2141;
+    overflow: hidden;
+   }
+   .games .cardBx .card img
+   {
+    width: 100px;
+    height: 250px;
+    object-fit: cover;
+   }
+   .games .cardBx .card .content
+   {
+    padding: 10px;
+   }
+   .games .cardBx .card .content h4
+   {
+    color: white;
+    margin: 15px 0;
+   }
+   .games .cardBx .card .progress-line
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-line span
+   {
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+   }
+
+   @keyframes animate{
+    100%{
+        transform: scalex(1);
+    }
+   }
+   .games .cardBx .card .info
+   {
+    border-bottom: 2px solid #35407e;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+   .games .cardBx .card .info p
+   {
+    font-size: 1em;
+    color: white;
+   }
+   .games .cardBx .card .info p span
+   {
+    color: #1aeeef;
+   }
+   .games .cardBx .card .info a
+   {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: 1px solid #1aeeef;
+    text-decoration: none;
+    font-weight: 700px;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 1px;
+   }
+   .games .cardBx .card .info a:hover
+   {
+    background: #1aeeef;
+    border: none;
+    color: black;
+    box-shadow: 0 0 10px #1aeeef;
+   }
+   .games .cardBx .card.hide
+   {
+    display: none;
+   }
+   .tournament
+   {
+    padding: 0px 100px;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+   .tournament h2{
+    color: white;
+    margin: 10px 0;
+   }
+   .tournament .boxBx
+   {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   }
+   .tournament .boxBx .box
+   {
+    width: 350px;
+    border-radius: 10px;
+    margin: 20px 40px;
+    background: #050e2d;
+    overflow: hidden;
+   }
+   .tournament .boxBx .box img
+   {
+    width: 100%;
+    height: 200px;
+object-fit: cover;   
+}
+.tournament .boxBx .box .content
+{
+    padding: 10px;
+}
+.tournament .boxBx .box .content h4{
+    color: white;
+    margin-top: 15px;
+}
+.tournament .boxBx .box .content h4 span
+{
+    color: #1aeeef;
+}
+.tournament .boxBx .box .content p
+{
+    text-align: justify;
+    color: #fff;
+    margin-top: 10px;
+}
+.tournament .boxBx .box .content .btn
+{
+    display: flex;
+    justify-content: space-between;
+}
+.tournament .boxBx .box .content .match{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: 1px solid #1aeeef;
+    text-decoration: none;
+    font-weight: 700px;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 1px;
+   }
+   .tournament .boxBx .box .content .match:hover
+   {
+    background: #1aeeef;
+    border: none;
+    color: #050e2d;
+    box-shadow: 0 0 10px #1aeeef;
+   }
+   .tournament .boxBx .box .content .join{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: 1px solid #1aeeef;
+    text-decoration: none;
+    font-weight: 700px;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 1px;
+   }
+   .tournament .boxBx .box .content .join:hover
+   {
+    background: #1aeeef;
+    border: none;
+    color: #050e2d;
+    box-shadow: 0 0 10px #1aeeef;
+   }
+   /*Contact*/
+   .contact
+   {
+    padding: 20px 100px;
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .contact img
+   {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+    border-radius: 10px;
+   }
+   .contact .form
+   {
+    width: 50%;
+    margin: 30px;
+   }
+   .contact .form h1
+   {
+    color: #fff;
+    font-size: 50px;
+   }
+   .contact .form .inputBx
+   {
+    margin: 10px 0;
+   }
+  
+   .contact .form .inputBx p{
+    color: #fff;
+   }
+   .contact .form .inputBx input,
+   .contact .form .inputBx textarea
+   {
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    background-color: #050e2d;
+    min-height: 45px;
+    font-size: 1.1em;
+   }
+   .inputBxx
+   {
+    width: 720px;
+    height: 40px;
+    background-color: #050e2d;
+    color: #fff;
+    border: none;
+   }
+   .contact .form .inputBx textarea
+   {
+    height: 100px;
+   }
+   footer
+   {
+    padding: 10px 100px;
+   }
+   footer .info
+   {
+    
+    justify-content: space-between;
+    
+    
+   }
+   footer .info .logo
+   {
+   
+    color: #fff;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: 700;
+    
+   }
+   footer .info p{
+    color: white;
+   }
+   .boxx{
+    width: 20px;
+    text-align: ri;
+    
+   }
+   .logo{
+    margin-bottom: -100px;
+    margin-left: -700px;
+   }
+   .clas li
+   {
+  
+    margin-left: 500px;
+   }
+   .clas li:hover
+   {
+    
+    background: #1aeeef;
+    box-shadow: 0 0 10px #1aeeef;
+    border-radius: 50px;
+   }
+   li
+   {
+   
+    margin-left: 500px;
+   }
+   .pic img:hover
+   {
+    background: rgb(28, 28, 78);
+    box-shadow: 0 0 10px #1aeeef;
+    border-radius: 1000px;
+   }
+   .games .cardBx .card .progress-linee
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-linee span
+   {
+    position: absolute;
+    height: 100%;
+    width: 94%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-lin
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-lin span
+   {
+    position: absolute;
+    height: 100%;
+    width: 59%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+    
+   }
+   .games .cardBx .card .progress-li
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-li span
+   {
+    position: absolute;
+    height: 100%;
+    width: 29%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+    
+   }.games .cardBx .card .progress-linn
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-linn span
+   {
+    position: absolute;
+    height: 100%;
+    width: 96%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-linef
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-linef span
+   {
+    position: absolute;
+    height: 100%;
+    width: 19%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-lineff
+   {
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background: #35407e;
+    margin-top: 15px;
+    border-radius: 10px;
+    transform:scalex(1);
+    transform-origin: left;
+    animation: alternate 1s cubic-bezier(1,0,0.5,1) forwards;
+   }
+   .games .cardBx .card .progress-lineff span
+   {
+    position: absolute;
+    height: 100%;
+    width: 96%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aeeef;
+    background:  #1aeeef;;
+    transform:scalex(0);
+    transform-origin: left;
+    animation: animate 2s cubic-bezier(1,0,0.5,1) forwards;
+   }
